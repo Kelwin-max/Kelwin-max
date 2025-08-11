@@ -1,42 +1,55 @@
-<<h1 align="center">Kelwin Gil</h1>
+![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
-<p align="center">
-  Aluno de Desenvolvimento de Sistemas no Senai. <br>
-  Apaixonado por tecnologia e em constante busca por aprendizado e desafios.
-</p>
+## Sobre mim
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:seu-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando {Técnico de Desenvolvimento de Sistemas} no {Senai}.
+- 🌱 Aprendendo mais sobre {Back end}.
 
----
+## Minhas Skills
 
-### **👋 Sobre Mim**
+**Aplicações e dados**
 
-Olá! Meu nome é Kelwin e sou um **estudante de Desenvolvimento de Sistemas**. Atualmente, estou focado em aprimorar minhas habilidades em...
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-* **Linguagens de Programação:** `HTML`, `CSS`, `JavaScript`, `Python`, etc.
-* **Bancos de Dados:** `MySQL`, `MongoDB`, etc.
-* **Ferramentas:** `Git`, `GitHub`, etc.
+**Utilidades**
 
-Estou sempre buscando oportunidades para aplicar meus conhecimentos em projetos práticos e colaborar com a comunidade. Sinta-se à vontade para me contatar!
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
----
+**DevOps**
 
-### **📈 Minhas Estatísticas no GitHub**
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
 
-![Estatísticas do GitHub]((https://github.com/Kelwin-max/Kelwin-max/edit/main/README.md))
+**Ferramentas de desenvolvimento**
 
----
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
-### **📫 Como Entrar em Contato**
+<br/>
 
-Estou sempre aberto a novas conexões e oportunidades. Você pode me encontrar aqui:
+<a href="https://github.com/iuricode" title="Perfil do Iuri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+</a>
 
-* **LinkedIn:** (https://www.linkedin.com/in/kelwin-tecnico-desenvolvimento-de-sistemas/)
-* **Email:** kelwingilfernandes@gmail.com
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
